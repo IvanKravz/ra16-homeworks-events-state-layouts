@@ -1,3 +1,5 @@
+#### Deployment: https://ivankravz.github.io/ra16-homeworks-events-state-layouts/
+
 Расположение товаров
 ===
 
